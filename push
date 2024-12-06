@@ -14,4 +14,4 @@ git add ${folder}/${project}.xpr
 git add src xdc grab.sh README.md push
 
 git commit -m "No commit message"
-#git push origin main
+git push origin main
